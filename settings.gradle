@@ -1,0 +1,2 @@
+rootProject.name='AlaramManagerDemo'
+include ':app'
